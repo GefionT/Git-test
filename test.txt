@@ -1,3 +1,2 @@
 This is a test file.
-It tests things.
-
+It tests some more things
